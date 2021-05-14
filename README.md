@@ -1,2 +1,3 @@
-# flowchart
-A Python flowchart generator for the console
+pychart
+
+A flowchart generator for the console, written in Python 3
